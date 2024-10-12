@@ -18,9 +18,9 @@ let desc = `
 │❖ *ᴜᴘᴛɪᴍᴇ :* _${runtime(process.uptime())}_
 │❖ *ʀᴀᴍ ᴜꜱᴀɢᴇ :*  _${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB_
 │❖ *ʜᴏꜱᴛ ɴᴀᴍᴇ :* _${os.hostname()}_
-│❖ *ᴏᴡɴᴇʀ :* _Asᴍᴏᴅᴇᴜs Eᴘᴢɪ_
+│❖ *ᴏᴡɴᴇʀ :* _Kᴇɴᴢᴏ_
 └────────────────
-*Epzige Cudu Nona is Here*👸🏻
+*Kenzo's Suti Manika Is Here*👸🏻
 ┌────────────
 ❖ *📚ALL COMMANDS📚*└────────────
 ┌────────────
@@ -114,7 +114,7 @@ let desc = `
 │ ✑ _.restart_
 └────────────
 
-> *©ᴄʀᴇᴀᴛᴇᴅ ʙʏ Asᴍᴏᴅᴇᴜs Eᴘᴢɪ 🧑🏻‍💻*
+> *©️Created By Kᴇɴᴢᴏ... 👻*
 `
 return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/tZzBS47/image.jpg`},caption: desc},{quoted: mek})
 }catch(e){
