@@ -15,17 +15,17 @@ try{
 
     let status = `
 ───────────────────
-_*⚙️ Cudu Nona's Sys Info ⚙️*_
+_*⚙️ Sᴜᴛɪ Mᴀɴɪᴋᴀ's Sys Info ⚙️*_
 ───────────────────
 
 ┌────────────────
 │❖ *ᴜᴘᴛɪᴍᴇ :* _${runtime(process.uptime())}_
 │❖ *ʀᴀᴍ ᴜꜱᴀɢᴇ :*  _${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB_
 │❖ *ʜᴏꜱᴛ ɴᴀᴍᴇ :* _${os.hostname()}_
-│❖ *ᴏᴡɴᴇʀ :* _Asᴍᴏᴅᴇᴜs Eᴘᴢɪ_
+│❖ *ᴏᴡɴᴇʀ :* _Kᴇɴᴢᴏ_
 └────────────────
 
-> ᴄʀᴇᴀᴛᴇᴅ ʙʏ Asᴍᴏᴅᴇᴜs Eᴘᴢɪ    
+> Created By Kᴇɴᴢᴏ... 👻    
 `
 
     return reply(`${status}`)
@@ -54,7 +54,7 @@ try{
         const message = await conn.sendMessage(from, { text: '*pong...*' })
         const endTime = Date.now()
         const ping = endTime - startTime
-        await conn.sendMessage(from, { text: `_*📍Epzi's Speed : ${ping}ms*_` }, { quoted: mek })
+        await conn.sendMessage(from, { text: `_*📍Kᴇɴᴢᴏ's Speed : ${ping}ms*_` }, { quoted: mek })
     } catch (e) {
         console.log(e)
         reply(`${e}`)
