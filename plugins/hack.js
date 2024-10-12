@@ -64,7 +64,7 @@ cmd(
         '\u26A0️ *Note:* All actions are for demonstration purposes only.',
         '\u26A0️ *Reminder:* Ethical hacking is the only way to ensure security.',
         '',
-        '> *ASMODEUS_EPZI-HACKING-COMPLETE \u2623*',
+        '> *Kᴇɴᴢᴏ-HACKING-COMPLETE \u2623*',
       ]
       for (const _0x3566fa of _0x1be32a) {
         await _0x119791.sendMessage(
