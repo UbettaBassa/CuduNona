@@ -10,7 +10,7 @@ let baseUrl;
 })();
 
 
-const yourName = "*©ᴄʀᴇᴀᴛᴇᴅ ʙʏ Asᴍᴏᴅᴇᴜs Eᴘᴢɪ 🧑🏻‍💻*";
+const yourName = "*©️Created By Kᴇɴᴢᴏ... 👻*";
 
 //apk downloader
 
