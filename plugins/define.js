@@ -28,7 +28,7 @@ const wordInfo = `
 📝 *Example*: ${example}
 🔗 *Synonyms*: ${synonyms}
 
-> Asᴍᴏᴅᴇᴜs Eᴘᴢɪ`;
+> Kᴇɴᴢᴏ`;
 
                                  return reply(wordInfo);
                              } catch (e) {
