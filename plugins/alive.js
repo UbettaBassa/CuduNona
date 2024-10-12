@@ -27,7 +27,7 @@ let desc = `
 
 ┌────────────────
 │ _*Suti Manika's Official Web Site*_
-│ Thama ehema ekk nh issarahata hadannm
+│ Kiyannema Na
 └────────────────
 ┌────────────────
 │ _*Suti Manikage Github Repo eka*_
