@@ -182,7 +182,7 @@ cmd(
 
             const responseHeader = {
                 header: 'CUDU NONA MOVIE SEARCH',
-                footer: '> *Asmodeus Epzi*',
+                footer: '> *Kᴇɴᴢᴏ 👻*',
                 body: '📌 Select Your Movie',
             };
 
@@ -307,7 +307,7 @@ cmd(
               const downloadContent = {
                 document: downloadLink,
                 mimetype: 'video/mp4',
-                fileName: `🎥 Asmodeus Epzi 🎥\n${downloadInfo?.result?.title ?? 'Movie'}.mkv`,
+                fileName: `🎥 Kᴇɴᴢᴏ 🎥\n${downloadInfo?.result?.title ?? 'Movie'}.mkv`,
                 caption: `> ${downloadInfo?.result?.title ?? 'Movie'}\n\n> 480p\n\n> POWERED by Asmodeus Epzi`,
               };
   
@@ -317,7 +317,7 @@ cmd(
               const downloadContent = {
                 document: downloadLink,
                 mimetype: 'video/mp4',
-                fileName: `🎥 Asmodeus Epzi 🎥\n${downloadInfo?.result?.title ?? 'Movie'}.mkv`,
+                fileName: `🎥 Kᴇɴᴢᴏ 🎥\n${downloadInfo?.result?.title ?? 'Movie'}.mkv`,
                 caption: `> ${downloadInfo?.result?.title ?? 'Movie'}\n\n> 720p\n\n> POWERED by Asmodeus Epzi`,
               };
   
@@ -327,7 +327,7 @@ cmd(
               const downloadContent = {
                 document: downloadLink,
                 mimetype: 'video/mp4',
-                fileName: `🎥 Asmodeus Epzi 🎥\n${downloadInfo?.result?.title ?? 'Movie'}.mkv`,
+                fileName: `🎥 Kᴇɴᴢᴏ 🎥\n${downloadInfo?.result?.title ?? 'Movie'}.mkv`,
                 caption: `> ${downloadInfo?.result?.title ?? 'Movie'}\n\n> 1080p\n\n> POWERED by Asmodeus Epzi`,
               };
   
