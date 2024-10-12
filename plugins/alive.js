@@ -40,7 +40,7 @@ let desc = `
 
 > *©️Created By Kᴇɴᴢᴏ... 👻*
 `
-return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/tZzBS47/image.jpg`},caption: desc},{quoted: mek})
+return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/7Y1qzvD/pixai-1787467958182827385-Anime-time.png`},caption: desc},{quoted: mek})
 
 }catch(e){
 console.log(e)
