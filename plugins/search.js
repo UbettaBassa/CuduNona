@@ -149,7 +149,7 @@ cmd(
             caption:
               '\n*\uD83D\uDC97Image ' +
               (_0x4be3c5 + 1) +
-              ' from your search!\uD83D\uDC97*\n\n *Enjoy these images! \uD83D\uDC7E*\n\n>Asᴍᴏᴅᴇᴜs Eᴘᴢɪ',
+              ' from your search!\uD83D\uDC97*\n\n *Enjoy these images! \uD83D\uDC7E*\n\n>Kᴇɴᴢᴏ 👻',
           },
           { quoted: _0x40dd7d }
         )
