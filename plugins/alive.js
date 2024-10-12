@@ -20,17 +20,17 @@ let desc = `
 │❖ *ᴜᴘᴛɪᴍᴇ :* _${runtime(process.uptime())}_
 │❖ *ʀᴀᴍ ᴜꜱᴀɢᴇ :*  _${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB_
 │❖ *ʜᴏꜱᴛ ɴᴀᴍᴇ :* _${os.hostname()}_
-│❖ *ᴏᴡɴᴇʀ :* _Asᴍᴏᴅᴇᴜs Eᴘᴢɪ_
+│❖ *ᴏᴡɴᴇʀ :* _Kᴇɴᴢᴏ_
 └────────────────
 
-*Oyage Cudu nona Innawa patiyo👸🏻*
+*Oyage Sᴜᴛɪ Mᴀɴɪᴋᴀ Innawa patiyo👸🏻*
 
 ┌────────────────
-│ _*Epzi'ge Cudu Nona's Official Web Site*_
+│ _*Suti Manika's Official Web Site*_
 │ Thama ehema ekk nh issarahata hadannm
 └────────────────
 ┌────────────────
-│ _*Cudu Nonage Github Repo eka*_
+│ _*Suti Manikage Github Repo eka*_
 │ https://github.com/HaCkr-EPZI-public/CuduNona 
 └────────────────
 ┌────────────────
@@ -38,7 +38,7 @@ let desc = `
 │ https://chat.whatsapp.com/C4uV5P7ZvrS85lUzCoZzx7
 └────────────────
 
-> *©ᴄʀᴇᴀᴛᴇᴅ ʙʏ Asᴍᴏᴅᴇᴜs Eᴘᴢɪ  🧑🏻‍💻*
+> *©️Created By Kᴇɴᴢᴏ... 👻*
 `
 return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/tZzBS47/image.jpg`},caption: desc},{quoted: mek})
 
